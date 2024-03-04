@@ -10,3 +10,5 @@
 2. cd root folder 
 
 3. npm install
+
+4. npm start(node)/npm run dev(nodemon)
